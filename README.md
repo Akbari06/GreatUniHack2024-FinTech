@@ -1,1 +1,1 @@
-# GreatUniHack_FinTech2024
+# GreatUniHack-FinTech2024
